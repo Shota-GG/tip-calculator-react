@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tip-calculator-react/static/css/main.df979ddb.css",
+    "main.js": "/tip-calculator-react/static/js/main.10c121af.js",
+    "static/js/787.a174f9e5.chunk.js": "/tip-calculator-react/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/tip-calculator-react/index.html",
+    "main.df979ddb.css.map": "/tip-calculator-react/static/css/main.df979ddb.css.map",
+    "main.10c121af.js.map": "/tip-calculator-react/static/js/main.10c121af.js.map",
+    "787.a174f9e5.chunk.js.map": "/tip-calculator-react/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df979ddb.css",
+    "static/js/main.10c121af.js"
+  ]
+}
