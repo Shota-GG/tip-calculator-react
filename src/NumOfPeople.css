@@ -1,0 +1,27 @@
+.peoplediv{
+    background-color: #F3F9FA;
+    width: 379px;
+    height: 48px;
+    border-radius: 5px;
+}
+.peopleimg{
+    padding-left: 17px;
+    padding-right: 30px;
+}
+.people {
+    background-color: #F3F9FA;
+    margin-top: 6px;
+    border-radius: 5px;
+    border: none;
+    font-size: 24px;
+    text-align: right;
+    outline: none;
+}
+.h1 {
+    font-size: 16px;
+    color: #5E7A7D;
+}
+.peoplediv:hover {
+    border: 2px solid #26C2AE;
+    cursor: pointer;
+}

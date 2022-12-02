@@ -1,0 +1,18 @@
+.custom {
+    width: 117px;
+    height: 48px;
+    border-radius: 5px;
+    background-color: #F3F9FA;
+    border: none;
+    padding: 0;
+    text-align: center;
+    font-size: 24px;
+}
+.no-spin::-webkit-inner-spin-button, .no-spin::-webkit-outer-spin-button {
+    -webkit-appearance: none !important;
+    margin: 0 !important;
+}
+
+.no-spin {
+    -moz-appearance:textfield !important;
+}

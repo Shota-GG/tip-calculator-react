@@ -1,0 +1,49 @@
+.bill {
+    font-size: 16px;
+    color: #5E7A7D;
+    margin-bottom: 6px;
+}
+.div {
+    background-color: #F3F9FA;
+    width: 379px;
+    height: 48px;
+    border-radius: 5px;
+}
+.dollarimg{
+    padding-left: 17px;
+    padding-right: 30px;
+}
+.billinput {
+    /* width: 349px; */
+    /* height: 48px; */
+    background-color: #F3F9FA;
+    margin-top: 6px;
+    border-radius: 5px;
+    border: none;
+    font-size: 24px;
+    text-align: right;
+    outline: none;
+    
+}
+input::-webkit-inner-spin-button, .no-spin::-webkit-outer-spin-button {
+    -webkit-appearance: none !important;
+    margin: 0 !important;
+}
+
+input {
+    -moz-appearance:textfield !important;
+}
+.texts {
+    width: 379px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cantbe {
+    font-size: 16px;
+    color: #E17457;
+}
+.div:hover{
+    border: 2px solid #26C2AE;
+    cursor: pointer;
+}

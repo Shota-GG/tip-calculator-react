@@ -1,0 +1,23 @@
+.percentbutt {
+    width: 117px;
+    height: 48px;
+    color: #ffffff;
+    background-color: #00474B;
+    border-radius: 5px;
+    font-size: 24px;
+    /* display: flex;
+    flex-wrap: wrap;
+    gap: 14px; */
+    margin-right: 14px;
+    margin-top: 10px;
+}
+.percentbutt:hover {
+    color: #00474B;
+    background-color: #9FE8DF;
+    cursor: pointer;
+    border: none;
+}
+.percentbutt:active {
+    background-color: #26C2AE;
+    
+}
